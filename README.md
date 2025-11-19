@@ -1,4 +1,29 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js Intro Before Movie App
+
+This project contains all the code built so far in the “Getting Started with Next.js” tutorial, covering the fundamentals of the App Router before moving into the full movie application.
+
+## What’s Included
+
+This repository demonstrates the core Next.js concepts:
+
+- Project setup with create-next-app
+- App Router basics
+- Pages and routes (page.tsx)
+- Layouts (layout.tsx)
+- Navigation using the <Link> component
+- Data fetching in Server Components
+- Updating data with revalidate and no-store
+- Loading and error handling (loading.tsx / error.tsx)
+- Styling with Tailwind CSS
+- Styled pages and simple UI structure
+
+At this stage, the project includes:
+
+- A homepage
+- An About page
+- A Posts page (using a placeholder API)
+- A shared layout with navigation
+- Tailwind-based styling
 
 ## Getting Started
 
